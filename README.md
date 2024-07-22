@@ -10,3 +10,5 @@ SQL: Database querying and data integration.
 Snowflake: Hosting Data geological data for vis.
 HTML: To display geological data.
 Python, Pandas, & NumPy: Data processing and analysis libraries.
+CSS: To style the Tree
+Javascript: To implement the Data Vis
